@@ -1,0 +1,5 @@
+{
+    "clientUrl": "https://thawing-sea-3686.herokuapp.com/",
+    "port": "80",
+    "development" : true
+}

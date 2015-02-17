@@ -1,0 +1,16 @@
+{
+    "package_version": "1.0",
+    "id": "e92638c3-a678-47f3-b824-dfa87ea325e0",
+    "type": "client-app",
+    "name": "Add-on containing tiles(s)",
+    "description": "Tiles: [sampletile-list]",
+    "minimum_version": "0070300000",
+    "icon_16": "extension-16.png",
+    "icon_48": "extension-48.png",
+    "icon_128": "extension-128.png",
+    "released_on": "2013-03-08T19:11:11.234Z",
+    "register_url": "%serviceURL%/jive/oauth/register",
+    "unregister_url": "%serviceURL%/jive/oauth/unregister",
+    "service_url": "https://thawing-sea-3686.herokuapp.com/",
+    "redirect_url": "%serviceURL%"
+}
